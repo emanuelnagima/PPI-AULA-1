@@ -54,9 +54,10 @@ nav a:hover {
 
 .banner {
     background: url('https://source.unsplash.com/1600x600/?travel') no-repeat center/cover;
-    height: 90px;
+    height: 150px;
     display: block;
-   margin-top: 3%;
+   margin-top: 2%;
+   margin-bottom: 3%;
     text-align: center;
     color: rgb(19, 18, 18);
     font-size: 20px;
